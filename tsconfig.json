@@ -43,7 +43,19 @@
       ],
       "@common/*": [
         "common/*"
+      ],  
+      "@assets": [
+        "assets"
       ],
+      "@assets/*": [
+        "assets/*"
+      ],
+      "@models": [
+        "models"
+      ],
+      "@models/*": [
+        "models/*"
+      ]
     }
   },
   "include": ["src"],
